@@ -18,9 +18,9 @@ System.out.println("World");
 > `World`
 
 ```java
-System.out.print("Hello"\n);
-System.out.print("World"\n);
-System.out.print("Java"\n);
+System.out.print("Hello\n");
+System.out.print("World\n");
+System.out.print("Java\n");
 ```
 > [!NOTE]  
 > - Output =  
