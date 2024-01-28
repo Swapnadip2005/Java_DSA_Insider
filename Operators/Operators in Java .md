@@ -1,0 +1,18 @@
+# Operators
+
+`Operators` are special symbols or keywords that perform operations on `Operands`
+
+Sum = a + b
+
+- '+' is a `Operator`
+- 'a' & 'b' are `Operands`
+
+# Types of Operators
+
+- Arithmatic Operators
+   - Binary Operators
+   - Unary Operators
+- Realtional Operators
+- Logical Operators
+- Bitwise Operators (Bit Manipulation)
+- Assignment Operators
