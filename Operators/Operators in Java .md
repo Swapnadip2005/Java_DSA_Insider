@@ -9,7 +9,7 @@ Sum = a + b
 
 # Types of Operators
 
-- Arithmatic Operators
+- Arithmetic Operators
    - Binary Operators
    - Unary Operators
 - Realtional Operators
