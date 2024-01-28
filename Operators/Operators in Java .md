@@ -12,7 +12,7 @@ Sum = a + b
 - Arithmetic Operators
    - Binary Operators
    - Unary Operators
-- Realtional Operators
+- Relational Operators
 - Logical Operators
 - Bitwise Operators (Bit Manipulation)
 - Assignment Operators
